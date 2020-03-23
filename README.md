@@ -4,9 +4,11 @@ To cite this work please refer to the related article entitled "Kurdish (Sorani)
 
 Please cite this resource as:
 
+~~~
 @article{qader2019kurdish,
   title={Kurdish (Sorani) Speech to Text: Presenting an Experimental Dataset},
   author={Qader, Akam and Hassani, Hossein},
   journal={arXiv preprint arXiv:1911.13087},
   year={2019}
 }
+~~~
